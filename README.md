@@ -12,5 +12,5 @@ After running cross-section lines and intersecting all the points in the cloud w
 
 # Example Output
 
-![ExampleOutput](https://github.com/metostom/cross-section-generation)
+![ExampleOutput](https://github.com/metostom/cross-section-generation/blob/master/Example-xsection.png)
 
