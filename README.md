@@ -9,6 +9,8 @@ After running cross-section lines and intersecting all the points in the cloud w
 - Shapely
 - GeoPandas
 - Scipy
+- Numpy 
+- Descarte
 
 # Example Output
 
